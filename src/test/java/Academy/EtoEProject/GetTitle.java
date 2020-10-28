@@ -49,5 +49,10 @@ public class GetTitle extends Base{
 	{
 		driver.close();
 		log.info("Page closed");
+		log.info("Page closed");
+		log.info("Page closed");
+		log.info("Page closed");
+		log.info("Page closed");
+		
 	}
 }

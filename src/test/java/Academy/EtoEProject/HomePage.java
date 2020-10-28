@@ -64,6 +64,13 @@ public class HomePage extends Base {
 	{
 		driver.close();
 		log.error("Page closed");
+		
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		
 	}
 	
 	
