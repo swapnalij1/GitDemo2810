@@ -30,7 +30,10 @@ public class GetTitle extends Base{
 		Assert.assertEquals(l.getTitle().getText(), "FEATURED COURSES123");
 		//Assert.assertTrue(driver.findElement(By.xpath(" //nav[@class='navbar-collapse collapse']")).isDisplayed());
 		log.info("Title retrived successfully");
-		
+		log.info("Title retrived successfully");
+		log.info("Title retrived successfully");
+		log.info("Title retrived successfully");
+		log.info("Title retrived successfully");
 		
 	}
 
