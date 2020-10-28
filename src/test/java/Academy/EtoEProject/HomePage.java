@@ -72,6 +72,30 @@ public class HomePage extends Base {
 		log.error("Page closed");
 		
 	}
+	public void teardown1()
+	{
+		driver.close();
+		log.error("Page closed");
+		
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		
+	}
+	public void teardown2()
+	{
+		driver.close();
+		log.error("Page closed");
+		
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		log.error("Page closed");
+		
+	}
 	
 	
 	
