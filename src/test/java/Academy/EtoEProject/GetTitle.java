@@ -44,6 +44,18 @@ public class GetTitle extends Base{
 		driver.get(prop.getProperty("url"));
 		log.info("Page loaded Suceessfully");
 	}
+	public void initialize1() throws IOException
+	{
+		driver=initializeDriver();
+		driver.get(prop.getProperty("url"));
+		log.info("Page loaded Suceessfully");
+	}
+	public void initialize2() throws IOException
+	{
+		driver=initializeDriver();
+		driver.get(prop.getProperty("url"));
+		log.info("Page loaded Suceessfully");
+	}
 	@AfterTest
 	public void teardown()
 	{
