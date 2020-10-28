@@ -1,0 +1,9 @@
+20:01:31.541 [TestNG-tests-2] INFO  resources.Base - hello
+20:01:32.117 [TestNG-tests-2] ERROR resources.Base - Page closed
+20:20:50.656 [main] INFO  resources.Base - hi
+20:20:53.786 [main] INFO  resources.Base - hello
+20:20:54.098 [main] ERROR resources.Base - Page closed
+20:21:08.440 [main] INFO  resources.Base - Page loaded Suceessfully
+20:21:08.787 [main] INFO  resources.Base - Page closed
+20:26:45.767 [main] INFO  resources.Base - hi
+20:26:49.780 [main] INFO  resources.Base - hello

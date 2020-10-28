@@ -1,0 +1,9 @@
+12:12:03.696 [main] INFO  resources.Base - Page closed
+12:22:58.659 [main] INFO  resources.Base - hi
+12:23:00.988 [main] INFO  resources.Base - hello
+12:23:01.167 [main] ERROR resources.Base - Page closed
+12:23:16.664 [main] INFO  resources.Base - Page loaded Suceessfully
+12:23:21.514 [main] INFO  resources.Base - Page closed
+12:23:58.700 [main] INFO  resources.Base - Page loaded Suceessfully
+12:23:58.773 [main] INFO  resources.Base - Navigation bar retrived successfully
+12:23:58.895 [main] INFO  resources.Base - Page closed
